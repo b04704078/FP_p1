@@ -1,0 +1,28 @@
+    table{
+    border-style: solid;
+    border-color: white;
+    border-collapse: collapse}
+
+    th,td{
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    padding: 15px;
+    width: 100px;
+    text-align: center;}
+
+    td{    
+    background-color: lightgray}
+    th{
+    background-color: lightsteelblue}
+
+    td.one,td.two,td.three,td.four,td.five,td.six,td.seven,td.eight,td.nine,td.ten,
+    td.eleven,td.twelve,td.thirteen,td.fourteen,td.fifteen
+    {background-color: lavender;
+    width: 120px
+    }
+    td.心與腦1,td.心與腦2,td.中國古代,td.羽球,td.影像美學
+    { background-color: antiquewhite}
+
+    td.前端
+    {background-color:mistyrose}
